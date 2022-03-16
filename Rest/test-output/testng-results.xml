@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-16T14:14:28Z" name="Default suite" finished-at="2022-03-16T14:14:45Z" duration-ms="16623">
+    <groups>
+    </groups>
+    <test started-at="2022-03-16T14:14:28Z" name="Default test" finished-at="2022-03-16T14:14:45Z" duration-ms="16623">
+      <class name="E_commerce">
+        <test-method signature="signup()[pri:0, instance:E_commerce@332729ad]" started-at="2022-03-16T19:44:28Z" name="signup" finished-at="2022-03-16T19:44:36Z" duration-ms="7369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method signature="login()[pri:1, instance:E_commerce@332729ad]" started-at="2022-03-16T19:44:36Z" name="login" finished-at="2022-03-16T19:44:40Z" duration-ms="4182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="getusers()[pri:2, instance:E_commerce@332729ad]" started-at="2022-03-16T19:44:40Z" name="getusers" finished-at="2022-03-16T19:44:43Z" duration-ms="3104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getusers -->
+        <test-method signature="deleteuser()[pri:3, instance:E_commerce@332729ad]" started-at="2022-03-16T19:44:43Z" name="deleteuser" finished-at="2022-03-16T19:44:45Z" duration-ms="1937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteuser -->
+      </class> <!-- E_commerce -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
